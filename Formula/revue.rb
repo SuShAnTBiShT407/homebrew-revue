@@ -2,27 +2,27 @@
 class Revue < Formula
   desc "AI pull request reviews in your terminal; you decide what gets posted"
   homepage "https://github.com/SuShAnTBiShT407/homebrew-revue"
-  version "0.1.0"
+  version "0.1.1"
 
   on_macos do
     on_arm do
-      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.0/revue_darwin_arm64.tar.gz"
-      sha256 "1c74675985d7effaeae9afd9e49c90457c169243b9a960c6cd436104736ad7e7"
+      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.1/revue_darwin_arm64.tar.gz"
+      sha256 "ba1e3598666299e7627afc7185badeb276493aaa12c03d45e821a1861b6fe2a7"
     end
     on_intel do
-      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.0/revue_darwin_amd64.tar.gz"
-      sha256 "3aaaa671e1b4286c2a2660b09bdcd24f4abefb9cee00bca543cf452bc3e219ac"
+      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.1/revue_darwin_amd64.tar.gz"
+      sha256 "4eaaaa4a4bd823220b7bd5ef1ac759cfaf62163797ed0703b4a90881df38f141"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.0/revue_linux_arm64.tar.gz"
-      sha256 "19774c9946eeb2ad5ddfc56df61f44ee21984f79f3ebe4589141863d6ccb4322"
+      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.1/revue_linux_arm64.tar.gz"
+      sha256 "18522b4af77c3452dbfca080ab97bb1061cdfc5dfb971f7d857fdbbede9c4b74"
     end
     on_intel do
-      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.0/revue_linux_amd64.tar.gz"
-      sha256 "fee0bb6afff788fb5fd6bfcb2080feb659c3c96a7c983df19ce34401ffe063a0"
+      url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.1.1/revue_linux_amd64.tar.gz"
+      sha256 "e7e7bfa7381496a36d6994ad9359dfb2a1467820fdc3619467a26ac040ca1155"
     end
   end
 
