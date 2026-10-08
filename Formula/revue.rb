@@ -7,22 +7,22 @@ class Revue < Formula
   on_macos do
     on_arm do
       url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.3.0/revue_darwin_arm64.tar.gz"
-      sha256 "523f0d0d716b4dea2ff10d606e667790cb9b82b08f0ad65c48be5dc62c1e9ca2"
+      sha256 "495f5bc5c14bfa2a5d9e61d61d5c4b849784c99a386825229b0cdbf6f70c90e8"
     end
     on_intel do
       url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.3.0/revue_darwin_amd64.tar.gz"
-      sha256 "df8978cd50a56ffdb5bf9a5d5309dac42679f2bb054010003bdaa5b204513207"
+      sha256 "b843d7ba612650005aa70a3918eab2af6232963b680f172a7c5247592fb09088"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.3.0/revue_linux_arm64.tar.gz"
-      sha256 "67686d3ed747aeaafd20acc52f7d3a20798c9db743a390201a19d74bcbcbaee9"
+      sha256 "4b3d2a7102102bc11865526f4be952379b26ed96107a221b47b933fba28727fc"
     end
     on_intel do
       url "https://github.com/SuShAnTBiShT407/homebrew-revue/releases/download/v0.3.0/revue_linux_amd64.tar.gz"
-      sha256 "0fd8973f1ee04253e3d3cdaab4d95691718075007072aa4482c85f964e9c2f45"
+      sha256 "6b394f73b2233ec81548232d5267bcceef246837e710f3e448904aa2ec12ffc4"
     end
   end
 
