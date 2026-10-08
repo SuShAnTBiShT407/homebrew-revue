@@ -358,7 +358,7 @@ Your workflow should determine **which AI is best for the job** — not the othe
 ## Homebrew
 
 ```bash
-brew install <your-homebrew-tap>/revue
+brew install SuShAnTBiShT407/revue/revue
 ```
 
 Then start Revue:
